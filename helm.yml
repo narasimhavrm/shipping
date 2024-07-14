@@ -1,0 +1,6 @@
+image:
+  repository: 079329262703.dkr.ecr.us-east-1.amazonaws.com/shipping
+
+port: 8080
+component: shipping
+
